@@ -1,0 +1,73 @@
+hr
+{
+    border: 1px solid gray;
+}
+.header
+{
+    font-weight: bold;
+  
+}
+.text
+{
+    text-align: justify;
+}
+.text-1
+{
+    text-align: center;
+    color: red;
+}
+.red-design
+{
+    padding: 3px;
+    background-color: maroon;
+    color: white;
+    
+}
+.red-designs
+{
+    padding: 3px;
+    background-color: maroon;
+    color: white;
+    position: relative;
+    top: 10px;
+    
+}
+.left-header
+{
+    font-weight: bold;
+}
+.right-header
+{
+    font-weight: bold;
+    float: right;
+}
+.round,.round-1,.round-2
+{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    font-size: 10px;
+    text-align: center;
+    display: inline-block;
+}
+.round
+{
+    position: relative;
+    top:-60px;
+    left: 280px;
+}
+.round-1
+{
+    position: relative;
+    top:-60px;
+    left: 660px;
+}
+.round-2
+{
+    position: relative;
+    top:-60px;
+    left: 280px;
+}

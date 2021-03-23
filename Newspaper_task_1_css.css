@@ -1,0 +1,82 @@
+.right-header
+{
+   float: right;
+
+}
+.right-header, .left-header
+{
+    font-weight: bold;
+    font-style: italic;
+}
+hr
+{
+    border: 1px solid gray;
+}
+.header
+{
+   text-align: center;
+}
+.red-design
+{
+    padding: 3px;
+    background-color: maroon;
+    color: white;
+    position: relative;
+    top: 10px;
+}
+.red-designs
+{
+    padding: 3px;
+    background-color: maroon;
+    color: white;
+}
+.my-div-1
+{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
+.text
+{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+}
+.text-red
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:red;
+}
+.round
+{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    font-size: 10px;
+    text-align: center;
+    left: 270px;
+    top:-70px;
+    display: inline-block;
+}
+.round-2
+{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    position: relative;
+    font-size: 10px;
+    text-align: center;
+    left: 650px;
+    top:-100px;
+    display: inline-block;
+}
+.sub-header
+{
+    font-weight: bold
+}
